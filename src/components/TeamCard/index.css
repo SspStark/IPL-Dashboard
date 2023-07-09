@@ -1,0 +1,42 @@
+.team-item {
+  background-color: #ffffff33;
+  border-radius: 12px;
+  border: 1px solid #ffffff;
+  width: 45%;
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+  padding: 12px 24px 12px 24px;
+  height: 80px;
+}
+.team-logo {
+  width: 60px;
+  height: 70px;
+}
+
+.team-name {
+  text-align: center;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+@media screen and (min-width: 768px) {
+  .team-logo {
+    width: 100px;
+    height: 110px;
+  }
+  .team-name {
+    font-size: 24px;
+  }
+  .team-item {
+    width: 36%;
+  }
+  .link {
+    height: 150px;
+  }
+}
