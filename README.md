@@ -1,6 +1,6 @@
 # [IPL Dashboard](https://sspipldashboard.ccbp.tech/)
 
-### Refer to the image below:
+## Refer to the image below:
 
 <br/>
 <div style="text-align: center;">
